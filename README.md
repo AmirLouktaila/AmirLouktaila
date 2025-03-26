@@ -27,8 +27,7 @@
 ###
 <h2 align="left">3D Models of Programming Languages</h2>
 
-<iframe width="300" height="300" src="https://sketchfab.com/models/YOUR_RUST_MODEL/embed" frameborder="0"></iframe>
-
-<iframe width="300" height="300" src="https://sketchfab.com/models/YOUR_FLUTTER_MODEL/embed" frameborder="0"></iframe>
-
-<iframe width="300" height="300" src="https://sketchfab.com/models/YOUR_DART_MODEL/embed" frameborder="0"></iframe>
+<!-- نموذج ثلاثي الأبعاد للغة Rust -->
+<div class="sketchfab-embed-wrapper">
+  <iframe title="Ferris the crab" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/e9bc16e19d1c4880b30d2aa5fd174887/embed"></iframe>
+</div>
